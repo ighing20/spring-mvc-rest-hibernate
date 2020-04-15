@@ -1,0 +1,10 @@
+com\ighing\springmvc\dao\impl\ClienteDaoImpl.class
+com\ighing\springmvc\service\impl\ClienteServiceImpl.class
+com\ighing\springmvc\dao\CrudDao.class
+com\ighing\springmvc\config\AppConfig.class
+com\ighing\springmvc\dao\ClienteDao.class
+com\ighing\springmvc\service\CrudService.class
+com\ighing\springmvc\service\ClienteService.class
+com\ighing\springmvc\entity\Cliente.class
+com\ighing\springmvc\rest\ClienteRestController.class
+com\ighing\springmvc\config\SpringMvcDispatcherServletInitializer.class
