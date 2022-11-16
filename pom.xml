@@ -9,7 +9,7 @@
 
 	<properties>
 		<springframework.version>5.0.16.RELEASE</springframework.version>
-		<jaction.xml.version>2.9.10.3</jaction.xml.version>
+		<jaction.xml.version>2.12.7.1</jaction.xml.version>
 		<mysql.connector.version>8.0.19</mysql.connector.version>
 		<hibernate.version>5.4.1.Final</hibernate.version>
 		<c3po.version>0.9.5.3</c3po.version>
