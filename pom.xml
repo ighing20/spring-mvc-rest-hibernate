@@ -8,7 +8,7 @@
 	<packaging>war</packaging>
 
 	<properties>
-		<springframework.version>5.0.16.RELEASE</springframework.version>
+		<springframework.version>5.2.20.RELEASE</springframework.version>
 		<jaction.xml.version>2.9.10.3</jaction.xml.version>
 		<mysql.connector.version>8.0.19</mysql.connector.version>
 		<hibernate.version>5.4.1.Final</hibernate.version>
